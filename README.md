@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thiyagarajan
-- 👀 I’m interested in Front End Developer
+- 👀 I’m interested in Full Stack Developer
 - 🌱 I’m currently learning B.E - Computer Science and Engineering
 - 📫 How to reach me thiyagarajan93333@gmail.com
   
